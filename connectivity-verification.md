@@ -12,7 +12,7 @@ Verify that all lab machines can communicate with each other before starting pen
 Bidirectional connectivity was successfully established.
 
 ## Screenshots
-1- 📷 [Ping from Windows to Kali](screenshots/lab-setup/ping-windows-to-kali.png)
+1- 📷 [Ping from Windows to Kali](ping-windows-to-kali.png)
 2- 📷 [Ping from Kali to Windows](screenshots/lab-setup/ping-kali-to-windows.png)
 
 3- ⚙️ [Windows Firewall ICMP Rule](screenshots/lab-setup/windows-firewall-icmp-rule.png)
