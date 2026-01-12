@@ -13,6 +13,6 @@ Bidirectional connectivity was successfully established.
 
 ## Screenshots
 1- 📷 [Ping from Windows to Kali](ping-windows-to-kali.png)
-2- 📷 [Ping from Kali to Windows](screenshots/lab-setup/ping-kali-to-windows.png)
+2- 📷 [Ping from Kali to Windows](ping-kali-to-windows.png)
 
-3- ⚙️ [Windows Firewall ICMP Rule](screenshots/lab-setup/windows-firewall-icmp-rule.png)
+3- ⚙️ [Windows Firewall ICMP Rule](windows-firewall-icmp-rule.png)
