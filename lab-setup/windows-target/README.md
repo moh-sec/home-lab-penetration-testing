@@ -10,7 +10,7 @@
 - IP Address: (192.168.1.13)
 - Connectivity: Reachable from attacker machine
 
-## 🔐 Security Configuration
+## Security Configuration
 - Windows Defender: Enabled
 - Firewall: Enabled
 - User Account Type: Administrator
