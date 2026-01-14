@@ -23,4 +23,4 @@ ping 192.168.1.13
 nmap -sS -sV 192.168.1.13
 ```
 ## Screenshot
-[nmap-scan-result](nmap-scan-result.png)
+[nmap-scan-result](lab-setup/screenshots/nmap-scan-result.png)
