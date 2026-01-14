@@ -16,3 +16,11 @@ The goal of this phase is to gather basic information about the target machine w
 ### Ping Test
 ```bash
 ping 192.168.1.13
+```
+### Nmap Scan
+
+```
+nmap -sS -sV 192.168.1.13
+```
+## Screenshot
+[nmap-scan-result](screenshots/nmap-scan-result.png)
