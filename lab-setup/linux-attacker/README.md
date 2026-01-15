@@ -1,23 +1,27 @@
-# 🐧 Linux Attacker Setup
+# Linux Attacker Setup
 
-## 🖥️ System Information
-- OS: Kali Linux 
-- Type: Virtual Machine
-- Role: Attacker Machine
+## System Information
+- OS: Kali Linux
+- Environment: Virtual Machine
+- Role: Attacker machine used for testing
+
 ---
 
-## 🌐 Network Configuration
-- Network Type: Bridged
-- IP Address: (192.168.1.14)
-- Connectivity: Can reach Windows 11 target 
+## Network Configuration
+- Network mode: Bridged
+- IP address: 192.168.1.14
+- Connectivity: Able to communicate with the Windows 11 target machine
+
 ---
 
-## 🧰 Installed Tools
+## Installed Tools
 - nmap
 - net-tools
-- curl / wget
+- curl
+- wget
+
 ---
 
-## 📌 Notes
-- Used only for authorized lab testing
-- No attacks performed yet
+## Notes
+- This machine is used exclusively for authorized lab testing.
+- No active attacks have been performed at this stage.
