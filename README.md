@@ -1,38 +1,38 @@
 # Home Lab Penetration Testing Project
 
-This repository documents my learning journey in penetration testing and cybersecurity through hands-on home lab practice.  
-The purpose of this project is to demonstrate my understanding of security fundamentals, ethical hacking concepts, and penetration testing methodology in a controlled and legal environment.
+This repository documents my personal learning progress in penetration testing through hands-on home lab practice.  
+The project focuses on building a solid understanding of security basics and penetration testing workflows in a controlled and legal environment.
 
 ## Objectives
 - Understand basic networking and system interaction
-- Practice attacker vs. target scenarios in a lab environment
-- Gain hands-on experience with Linux and Windows security
+- Practice attacker and target scenarios in a lab setup
+- Gain hands-on experience with Linux and Windows systems
 - Apply penetration testing phases such as reconnaissance, enumeration, and analysis
 
 ## Project Structure
-- Lab Setup & Network Topology
-- Reconnaissance & Discovery
+- Lab Setup and Network Topology
+- Reconnaissance and Discovery
 - Service Enumeration
 - Exposed Services Analysis
-- Linux & Windows System Interaction
-- Screenshots & Evidence
+- Linux and Windows System Interaction
+- Screenshots and Evidence
 
 ## Lab Environment
 - Attacker Machine: Linux (Virtual Machine)
 - Target Machine: Windows 11 (Virtual Machine)
-- Network Type: Isolated / Host-Only network
+- Network Type: Isolated / Host-Only
 
 ## Scope
 - Internal network penetration testing only
 - No denial-of-service or destructive attacks
-- All activities performed on machines owned by me
+- All activities are performed on systems owned by me
 
 ## Current Status
 - Virtual machines setup completed
 - Network connectivity verified
-- Initial reconnaissance phase completed 
-- exposed services completed 
+- Initial reconnaissance completed
+- Exposed services identified
 
 ## Disclaimer
 This project is for educational purposes only.  
-All testing was conducted in a controlled lab environment on systems I own and have permission to test.
+All testing is conducted in a controlled lab environment on systems I own and have permission to test.
