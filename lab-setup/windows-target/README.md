@@ -1,23 +1,26 @@
-# 🪟 Windows 11 Target Setup
+# Windows 11 Target Setup
 
-## 🖥️ System Information
+## System Information
 - OS: Windows 11
-- Type: Virtual Machine
-- Role: Target Machine
+- Environment: Virtual Machine
+- Role: Target machine
+
 ---
 
-## 🌐 Network Configuration
-- Network Type:Bridged
-- IP Address: (192.168.1.13)
-- Connectivity: Reachable from attacker machine
+## Network Configuration
+- Network type: Bridged
+- IP address: 192.168.1.13
+- Connectivity: Reachable from the attacker machine
+
 ---
 
-## 🔐 Security Configuration
+## Security Configuration
 - Windows Defender: Enabled
 - Firewall: Enabled
-- User Account Type: Administrator
+- User account type: Administrator
+
 ---
 
-## 📌 Notes
-- No hardening applied yet
-- Default configuration for learning purposes
+## Notes
+- No system hardening has been applied yet
+- Default configuration is used for learning and testing purposes
