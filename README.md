@@ -9,6 +9,14 @@ The purpose of this project is to demonstrate my understanding of security funda
 - Gain hands-on experience with Linux and Windows security
 - Apply penetration testing phases such as reconnaissance, enumeration, and analysis
 
+## Project Structure
+- Lab Setup & Network Topology
+- Reconnaissance & Discovery
+- Service Enumeration
+- Exposed Services Analysis
+- Linux & Windows System Interaction
+- Screenshots & Evidence
+
 ## Lab Environment
 - Attacker Machine: Linux (Virtual Machine)
 - Target Machine: Windows 11 (Virtual Machine)
