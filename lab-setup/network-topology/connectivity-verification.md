@@ -16,6 +16,6 @@ Verify that all lab machines can communicate with each other before starting any
 Bidirectional connectivity was successfully established between all lab machines.
 
 ## Screenshots
-1-  [Ping from Windows to Kali](lab-setup/screenshots/ping-kali-to-windows.png) 
-2-  [Ping from Kali to Windows](screenshots/ping-kali-to-windows.png)
-3-  [Windows Firewall ICMP Rule](screenshots/windows-firewall-icmp-rule.png)
+1-  [Ping from Windows to Kali](ping-windows-to-kali.png) 
+2-  [Ping from Kali to Windows](ping-kali-to-windows.png)
+3-  [Windows Firewall ICMP Rule](windows-firewall-icmp-rule.png)
