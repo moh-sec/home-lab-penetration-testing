@@ -1,32 +1,32 @@
-# 🌐 Network Topology
+# Network Topology
 
 ## Purpose
-This section describes the network layout used in the home lab and how the attacker machine communicates with the target machine.
+This section outlines the network layout used in the lab environment and explains how the attacker machine communicates with the target system.
 
 ---
 
-## 🧱 Lab Network Design
-- Linux virtual machine configured as the attacker
-- Windows 11 virtual machine configured as the target
+## Lab Network Design
+- A Linux virtual machine configured as the attacker
+- A Windows 11 virtual machine configured as the target
 - Both machines are connected to the same isolated virtual network
 
 ---
 
-## 🌍 Network Details
-- Network Type: Bridged 
+## Network Details
+- Network type: Bridged
 - Subnet: 192.168.1.0/24
-- Gateway: Not required
+- Gateway: Not required for this setup
 
 ---
 
-## 🔁 Communication Flow
-- Linux attacker initiates communication with Windows target
-- ICMP traffic is allowed for connectivity testing
+## Communication Flow
+- The Linux attacker initiates communication with the Windows target
+- ICMP traffic is permitted for connectivity testing
 - TCP traffic is allowed for service enumeration
 
 ---
 
-## 📌 Notes
-- The network is intentionally flat to simplify testing
+## Notes
+- The network is intentionally flat to keep testing simple
 - No network segmentation is implemented at this stage
-- The environment is isolated 
+- The lab environment is isolated from production networks
